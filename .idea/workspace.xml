@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbb88878-c035-435e-b7d4-62d1c22348c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TwoSum_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch_704.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidParenthesis_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anagram_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPalindrome_125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxProfit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WhereWillTheBallFall_1706.java" beforeDir="false" afterPath="$PROJECT_DIR$/WhereWillTheBallFall_1706.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
       <workItem from="1672409329809" duration="22996000" />
       <workItem from="1672677247099" duration="214000" />
       <workItem from="1672677466585" duration="2050000" />
-      <workItem from="1672697821785" duration="11070000" />
+      <workItem from="1672697821785" duration="18603000" />
     </task>
     <servers />
   </component>
@@ -108,6 +111,11 @@
           <url>file://$PROJECT_DIR$/WhereWillTheBallFall_1706.java</url>
           <line>7</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch_704.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/HappyNumber_202.java</url>
