@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbb88878-c035-435e-b7d4-62d1c22348c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BinarySearch_704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidParenthesis_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/anagram_242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isPalindrome_125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddBinary_67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClimbingStairs_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FloodFill_733.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LongestPalindrome_409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueueWithStacks_232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RansomNote_383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertInterval_57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxSubarray_53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch_704.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch_704.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +66,20 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="insertInterval_57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="insertInterval_57" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.insertInterval_57" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,7 +91,7 @@
       <workItem from="1672409329809" duration="22996000" />
       <workItem from="1672677247099" duration="214000" />
       <workItem from="1672677466585" duration="2050000" />
-      <workItem from="1672697821785" duration="18603000" />
+      <workItem from="1672697821785" duration="36765000" />
     </task>
     <servers />
   </component>
@@ -113,9 +131,19 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BinarySearch_704.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="36" />
+          <url>file://$PROJECT_DIR$/AddBinary_67.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddBinary_67.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/insertInterval_57.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/HappyNumber_202.java</url>
